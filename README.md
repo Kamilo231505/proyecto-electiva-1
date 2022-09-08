@@ -1,6 +1,6 @@
 # Proyecto Electiva de Profundización I - Creación de APIs
 # Integrantes:
-• Juan Alonso (https://github.com/Kamilo231505) [@kamilo231505]
+• Juan Alonso [@kamilo231505](https://github.com/Kamilo231505).
 • Nombre Apellido @usuario-git (Con enlace a su perfil de git)
 # Sprint 1:
 # Historia de Usuario EP-001 (Enlace o screenshot a la Historia)
