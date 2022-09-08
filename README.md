@@ -1,5 +1,4 @@
-# proyecto-electiva-1
-Proyecto Electiva de Profundización I - Creación de APIs
+# Proyecto Electiva de Profundización I - Creación de APIs
 • Integrantes:
 • Nombre Apellido @usuario-git (Con enlace a su perfil de git)
 • Nombre Apellido @usuario-git (Con enlace a su perfil de git)
